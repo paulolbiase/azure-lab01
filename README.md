@@ -53,13 +53,5 @@ Criar uma máquina virtual Linux no Microsoft Azure com:
 
 ## 📸 Evidências (prints)
 
-> Adicione prints na pasta `img/` com nomes como:
-> - `vm.png`
-> - `bastion.png`
-
-```bash
-azure-lab01/
-├── README.md
-└── img/
-    ├── vm.png
-    └── bastion.png
+>![Print dos recursos](img/print02.png)
+![Print do Bastion](img/print01.png)
