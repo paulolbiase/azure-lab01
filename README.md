@@ -53,5 +53,5 @@ Criar uma máquina virtual Linux no Microsoft Azure com:
 
 ## 📸 Evidências (prints)
 
->![Print dos recursos](img/print02.jpg)
+![Print dos recursos](img/print02.jpg)
 ![Print do Bastion](img/print01.jpg)
